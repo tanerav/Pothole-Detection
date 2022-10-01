@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T23:33:08.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YkMEizmXvi74QDhs82mW" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T23:45:36.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="73W4kfOpgR-T_fPKWJ-g" version="20.3.7" type="github">
   <diagram id="eBxUQg_OgsdYoqTR85gN" name="Page-1">
-    <mxGraphModel dx="1564" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3Ps9s546L_sEdKCQQ3Bc-1" value="https://www.amazon.com/Waveshare-4G-HAT-Raspberry-SIM7600G-H/dp/B0824P4B7M/ref=sr_1_5?crid=3125C7G8CGO61&amp;amp;keywords=Waveshare+SIM7600G-H&amp;amp;qid=1664666756&amp;amp;qu=eyJxc2MiOiIyLjg5IiwicXNhIjoiMi42MyIsInFzcCI6IjEuNTAifQ%3D%3D&amp;amp;sprefix=waveshare+sim7600g-h%2Caps%2C551&amp;amp;sr=8-5&amp;amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="340" width="400" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="3Ps9s546L_sEdKCQQ3Bc-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://m.media-amazon.com/images/I/71OnJ4yr1zL._AC_SL1500_.jpg;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="173.73" height="151.35" as="geometry" />
         </mxCell>
