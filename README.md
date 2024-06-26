@@ -22,7 +22,7 @@ Potholes pose significant hazards to public roads, causing vehicle damage and sa
 
 The core of the system is the Raspberry Pi 4, which houses the camera, cellular connectivity module, and AI algorithm. The system architecture is visualized below:
 
-![System Architecture](#)
+![System Architecture](SystemDesign.drawio.png)
 
 ## Project Scope
 
