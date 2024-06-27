@@ -43,6 +43,10 @@ The project utilizes a Convolutional Neural Network (CNN), specifically MobileNe
 
 The system uses a 4G/GNSS HAT for cellular connectivity and GNSS for location data. Data is sent to ThingSpeak using MQTT and retrieved via REST API. The web application, built with Python Flask and Folium, displays pothole locations to users.
 
+## System Architecture Drawing
+
+![System Architecture Drawing](communication.drawio.png)
+
 ## 3D Printed Casing and Camera
 
 The project includes a custom-designed 3D-printed case to house the Raspberry Pi and modules, providing protection and ensuring proper camera placement.
@@ -56,10 +60,6 @@ The project includes a custom-designed 3D-printed case to house the Raspberry Pi
 ## Conclusion
 
 The project successfully developed a functioning module for detecting potholes and transmitting data for visualization. Future steps involve scaling up the deployment in collaboration with the New York City government to create a comprehensive pothole database.
-
-## System Architecture Drawing
-
-![System Architecture Drawing](attachment-url-here)
 
 ---
 
